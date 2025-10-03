@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/github/license/hul0/cyberarsenal?style=for-the-badge&color=purple)](./LICENSE)
 
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](./CONTRIBUTING.md)
-[![Made with Love](https://img.shields.io/badge/Made%20With-❤️-red?style=for-the-badge)]()
+[![Made with Love](https://img.shields.io/badge/Made%20With-❤️-success?style=for-the-badge)]()
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge)]()
 [![Open Source](https://img.shields.io/badge/Open%20Source-💪-orange?style=for-the-badge)]()
 
